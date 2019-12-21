@@ -1,0 +1,4 @@
+model_checkpoint_path: "nn_model_ep_30.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_10.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_20.ckpt"
+all_model_checkpoint_paths: "nn_model_ep_30.ckpt"
